@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/punjiCC.dir/main.cpp.o CMakeFiles/punjiCC.dir/muaHandler.cpp.o CMakeFiles/punjiCC.dir/Log.cpp.o CMakeFiles/punjiCC.dir/honeypotHandler.cpp.o CMakeFiles/punjiCC.dir/SocketIO.cpp.o  -o punjiCC -lpthread -lproxygenhttpserver -lfolly -lglog -lcurl 

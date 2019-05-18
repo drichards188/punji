@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -g   CMakeFiles/punji.dir/main.cpp.o CMakeFiles/punji.dir/ContentHandler.cpp.o CMakeFiles/punji.dir/SocketIO.cpp.o  -o punji  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lpthread -lproxygenhttpserver -lfolly -lglog -lGeoIP -lmongocxx -lbsoncxx -lpcap 
