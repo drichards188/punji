@@ -1,3 +1,7 @@
+# NOT UPDATED OR MONITORED
+
+# PRE ALPHA
+
 # punji
 
 A email open relay is a unsecured MSA server that is used to send email, usually spam or other malicous content. Open relays are detected by crawlers that run 24/7.
